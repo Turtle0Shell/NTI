@@ -23,7 +23,7 @@ An end-to-end data engineering and machine learning pipeline that ingests, proce
 ---
 
 ## 🚀 How to Run the Project (Instructor Guide)
-
+### Phase 0: See data sources folder and follow it's guide
 ### Phase 1: Infrastructure & Setup (Run Once)
 1. **Start the cluster:** Run `docker compose up -d` in the root directory.
 2. **Access Jupyter:** Open the Jupyter lab interface provided by the Spark container.
